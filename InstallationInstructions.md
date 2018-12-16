@@ -1,5 +1,5 @@
-While there are installation instructions in the repositories, I found them lacking as they assume there 
-is already a configured system. These instructions are done on a freshly installed Arch based server (Manjaro),
+While there are installation instructions in the repositories, ([Zimmerman](https://github.com/Konishi2/Zimmerman/blob/master/README.md), [Higala](https://github.com/Konishi2/Higala/blob/master/README.md)) I found them lacking as they assume there 
+is already a configured system. The following instructions are done on a freshly installed Arch based server (Manjaro),
 and detail all the steps that I required to get Konishi running.
 
 # Arch systems (Manjaro)
