@@ -5,6 +5,10 @@ For all the discussions about the project as a whole.
 
 [General discussion on this project](https://github.com/Konishi2/Konishi-project/issues)
 
+## Live demos
+  * http://80.101.63.121/ (dev)
+  * More soon!
+
 # Hello worl
 This is a temporary fork of https://github.com/konishi-project so we can continue work on the project while Zeth is in the cooldown corner.
 
